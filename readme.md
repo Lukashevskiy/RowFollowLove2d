@@ -1,4 +1,4 @@
-# Raw move by unspecified traectory
+# Raw triangle move by unspecified traectory
 or specified?
 
 ### demo
